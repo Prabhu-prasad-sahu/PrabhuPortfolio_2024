@@ -30,10 +30,10 @@ const Footer = () => {
                         <a href="https://www.facebook.com/pravu.pravu.7127/" className='text-gray-400 hover:text-white'>
                             <FaFacebook />
                         </a>
-                        <a href="https://www.instagram.com/mr_pravu/" className='text-gray-400 hover:text-white'>
+                        <a href="https://www.instagram.com/prabhu.prasad.sahu/" className='text-gray-400 hover:text-white'>
                             <FaLinkedin />
                         </a>
-                        <a href="https://www.instagram.com/mr_pravu/" className='text-gray-400 hover:text-white'>
+                        <a href="https://www.instagram.com/prabhu.prasad.sahu/" className='text-gray-400 hover:text-white'>
                             <FaInstagramSquare />
                         </a>
                         <a href="https://github.com/Prabhu-prasad-sahu" className='text-gray-400 hover:text-white'>

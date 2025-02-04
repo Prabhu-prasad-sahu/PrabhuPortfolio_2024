@@ -8,7 +8,7 @@ const projects = [
         technology: "React.js",
         image: "./Crypto.png",
         github: "https://github.com/Prabhu-prasad-sahu/Crypto_Page",
-        live: "https://prabhuprasad-portfolio.netlify.app"
+        live: "https://prabhu-crypto.netlify.app/"
     },
     {
         id: 2,
@@ -16,7 +16,7 @@ const projects = [
         technology: "React.js",
         image: "./dice.png",
         github: "https://github.com/Prabhu-prasad-sahu/Dice-Game",
-        live: "https://prabhuprasad-portfolio.netlify.app"
+        live: "https://prabhu-dice-game.netlify.app/"
 
     },
     {

@@ -6,10 +6,10 @@ const About = () => {
             <div className='container mx-auto px-8 md:px-16 lg:px-24'>
                 <h2 className='text-4xl font-bold text-center mb-12'>About Me</h2>
                 <div className='flex flex-col md:flex-row item-center  md:space-x-12'>
-                    <img src="./Profile.png" alt="prabhu" className='w-72 h-80 object-cover mb-8 md:mb-0 mx-auto md:mx-0' />
+                    <img src="./ph-1.png" alt="prabhu" className='w-72 h-80 object-cover mb-8 md:mb-0 mx-auto md:mx-0' />
                     <div className='flex-1'>
                         <p className='text-lg mb-8  text-justify '>
-                            I am a MERN Stack Developer with 2.4 years of experience in designing, developing, and maintaining web applications. Proficient in JavaScript (ES6+), React.js, Node.js, Express.js, I have hands-on experience building dynamic, user-friendly frontends and scalable backends. Additionally, I am well-versed in MongoDB and SQL databases, ensuring smooth data management and API integration. I have also worked extensively with HTML5, CSS3, and Bootstrap, creating responsive and intuitive user interfaces. My experience includes developing RESTful APIs, implementing authentication, working with version control systems like Git, and collaborating in Agile environments. I am passionate about problem-solving and continuously learning new technologies to improve performance and optimize workflows.
+                            I am a MERN Stack Developer with 2.2 years of experience in designing, developing, and maintaining web applications. Proficient in JavaScript (ES6+), React.js, Node.js, Express.js, I have hands-on experience building dynamic, user-friendly frontends and scalable backends. Additionally, I am well-versed in MongoDB and SQL databases, ensuring smooth data management and API integration. I have also worked extensively with HTML5, CSS3, and Bootstrap, creating responsive and intuitive user interfaces. My experience includes developing RESTful APIs, implementing authentication, working with version control systems like Git, and collaborating in Agile environments. I am passionate about problem-solving and continuously learning new technologies to improve performance and optimize workflows.
                         </p>
                         <div className='space-y-4'>
                             {/* HTML & CSS Progress Bar */}
